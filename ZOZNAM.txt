@@ -1,0 +1,145 @@
+
+		***ZOZNAM ZAMESTNANCOV***
+
+///////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+1
+Meno: Ivan
+Priezvisko: Palko
+Vek: 52
+Telefone cislo: 0914648731
+Uroven anglictiny: C2
+Mzda: 980
+Skusenosti: 22 rokov
+Vzdelanie: Vysokoskolske
+Pocet deti: 8
+
+
+1
+Meno: Stevo
+Priezvisko: Baca
+Vek: 22
+Telefone cislo: 123456789
+Uroven anglictiny: A1
+Mzda: 980
+Skusenosti: 0 rokov
+Vzdelanie: Zakladne
+Pocet deti: 4
+
+
+2
+Meno: Pavol
+Priezvisko: Kucharovic
+Vek: 62
+Telefone cislo: 32123486
+Mzda: 900
+Paragraf: 24
+Prax: 45
+Naradie: Ano
+
+
+
+3
+Meno: Michal
+Priezvisko: Suty
+Vek: 32
+Telefone cislo: 095487621
+Mzda: 555
+Paragraf: 22
+Prax: 6
+Skola: Ziliska Univerzita v Ziline
+Odbor: eletrikar
+Rocnik: 1
+
+
+2
+Meno: Ivanko
+Priezvisko: Petrak
+Vek: 26
+Telefone cislo: 123456789
+Mzda: 900
+Paragraf: 23
+Prax: 3
+Naradie: Ano
+
+
+3
+Meno: Michal
+Priezvisko: Novy
+Vek: 19
+Telefone cislo: 123456
+Mzda: 555
+Paragraf: 20
+Prax: 0
+Skola: nformacne a sietove
+Odbor: 
+Rocnik: 0
+
+
+2
+Meno: Juraj
+Priezvisko: Ilo
+Vek: 35
+Telefone cislo: 987654321
+Mzda: 900
+Paragraf: 22
+Prax: 12
+Naradie: Ano
+
+
+
+3
+Meno: Michal
+Priezvisko: Kubo
+Vek: 17
+Telefone cislo: 456321
+Mzda: 555
+Paragraf: 20
+Prax: 0
+Skola: stredna
+Odbor: Stredna
+Rocnik: 1
+
+
+
+
+3
+Meno: Peter
+Priezvisko: Sina
+Vek: 24
+Telefone cislo: 123456789
+Mzda: 555
+Paragraf: 22
+Prax: 6
+Skola: Murarska Kosice
+Odbor: Eletrikar
+Rocnik: 4
+
+
+
+1
+Meno: Aaron
+Priezvisko: Wan
+Vek: 36
+Telefone cislo: 987654897
+Uroven anglictiny: C2
+Mzda: 980
+Skusenosti: 13 rokov
+Vzdelanie: Vysokoskelse
+Pocet deti: 0
+
+
+3
+Meno: Borris
+Priezvisko: Kollar
+Vek: 52
+Telefone cislo: 98797543
+Mzda: 555
+Paragraf: 20
+Prax: 0
+Skola: Vysoka skola Skalica
+Odbor: Neznamy
+Rocnik: 5
